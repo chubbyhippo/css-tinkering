@@ -1,1 +1,1 @@
-https://livebook.manning.com/book/css-in-depth-second-edition/chapter-1/84
+https://livebook.manning.com/book/css-in-depth-second-edition/chapter-1/109

@@ -15,8 +15,12 @@ h1 {
 
 #main-nav a {
     color: white;
-    background-color: #13a4a4 !important;
+    background-color: #13a4a4;
     padding: 5px;
     border-radius: 2px;
     text-decoration: none;
+}
+
+.featured {
+    background-color: orange;
 }
