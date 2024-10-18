@@ -16,6 +16,6 @@
     text-decoration: none;
 }
 
-.nav .featured {
+a.featured {
     background-color: orange;
 }
